@@ -4,6 +4,10 @@
 	height:350px;
 	color:white;
 }
+a{
+	text-decoration:none;
+	color:lightgray;
+}
 .link-boxes{
 	display:flex;
 	justify-items:center;
