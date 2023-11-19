@@ -29,6 +29,7 @@ li{
 	justify-content:right;
 	gap:15px;
 	padding-inline:10px;
+	length:5px;
 }
 #bottom{
 	background-color:#36454F;
